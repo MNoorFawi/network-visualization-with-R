@@ -1,7 +1,7 @@
 Network Visualization in R
 ================
 
-Visualizing Networks using different R packages (igraph, visNetwork, ggnet2)
+[Visualizing Networks using different R packages (igraph, visNetwork, ggnet2)](https://github.com/MNoorFawi/network-visualization-with-R)
 ----------------------------------------------------------------------------
 
 the data is taken from DVD Rental database. consists of three columns: customer name, number of rentals each customer rented for each actor, and top 10 actors names ...
